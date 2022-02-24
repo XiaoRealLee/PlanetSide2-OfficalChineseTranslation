@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <str key="569651616" type="ucdt">减小最小的准星范围，缩短准星复原所需的时间。</str>
+    <str key="569692411" type="ucdt">在你的武器上添加数字南瓜迷彩图案。仅供[#VS#]使用。</str>
+    <str key="569829526" type="ucdt">Brawler：[#SILVER_MEDAL#]</str>
+    <str key="569956323" type="ucdt">原型[#DIGITAL_CAMO#]</str>
+    <str key="570034803" type="ucdt">确认购买</str>
+    <str key="570128335" type="ucdt">可让你解锁使用纳米修理手雷。仅限[#COMBAT_MEDIC#]。</str>
+    <str key="570244522" type="ucdt">Searhus礼包</str>
+    <str key="570307881" type="ucdt">使用近战武器或副武器击杀敌人时恢复325点生命值。快速近战攻击不会触发该效果。</str>
+    <str key="570560301" type="ucdt">Tempest</str>
+    <str key="570771058" type="ucdt">Cerberus：[#COPPER_MEDAL#]</str>
+    <str key="570933755" type="ucdt">Flash割趾者保险杠</str>
+    <str key="570972263" type="ucdt">使用这把精心打造的射手反物质步枪变体玩弄敌人于股掌之间（？）。所有阵营均可使用NS武器。</str>
+    <str key="571345586" type="ucdt">专有的促销奖励</str>
+    <str key="571371730" type="ucdt">您已被移至另一个小队。</str>
+    <str key="571476374" type="ucdt">两脚架</str>
+    <str key="571551169" type="ucdt">来自破片手雷和普通爆炸物的伤害减少50%，来自步兵火箭弹和轻型载具爆炸物的伤害减少20%。</str>
+    <str key="571590353" type="ucdt">进一步增加纳能效果隐身装备上电容器的容量。</str>
+    <str key="571939699" type="ucdt">专业提示</str>
+    <str key="571978913" type="ucdt">[#AFRICAN_FOREST#]迷彩</str>
+    <str key="572276498" type="ucdt">使用额外的合成涂装美化角色的外观。仅供[#TR#]使用。</str>
+    <str key="572354461" type="ucdt">Cobalt</str>
+    <str key="572366209" type="ucdt">按下[%s]打开房门</str>
+    <str key="572592880" type="ucdt">警报完成</str>
+    <str key="572601700" type="ucdt">购买程序处理中</str>
+    <str key="572656393" type="ucdt">[#SMOKE_GRENADES#]能够制造混乱并且在交火区域提供短暂的掩护</str>
+    <str key="572827109" type="ucdt">[#PLACEHOLDER_WEAPON_NAME#]</str>
+    <str key="572887097" type="ucdt">第一武器：轻机枪：处女座</str>
+    <str key="572987787" type="ucdt">短暂锁定后，光子空对空导弹可造成爆破，融化重型空中载具的装甲，但对较小的空中载具效果较差。[#VS_USE_ONLY#]</str>
+    <str key="573037675" type="ucdt">喇叭</str>
+    <str key="573052301" type="utdt">因达尔峡谷v2</str>
+    <str key="573091818" type="ucdt">雪橇轮胎痕迹</str>
+    <str key="573161704" type="ucdt">AS16 NightHawk：[#COPPER_MEDAL#]</str>
+    <str key="573341136" type="ucdt">燃料恢复速率增加20%。</str>
+    <str key="573367478" type="ucdt">喷气背包</str>
+    <str key="573397720" type="ucdt">M8 Pounder SKEP：[#__SILVER_MEDAL#]</str>
+    <str key="573425779" type="ucdt">作为[#LIGHT_ASSAULT#]使用任意霰弹枪击杀敌人。</str>
+    <str key="573465786" type="ucdt">Hvar主重生室</str>
+    <str key="573488498" type="ucdt">武器能够携带的最大弹药数量增加200发。</str>
+    <str key="573512621" type="ucdt">“被动”栏中可以选择的项目。当载具来到处于隐身状态的渗透者10米之内时，将会自动侦测到渗透者的存在。</str>
+    <str key="573523477" type="ucdt">2015假日倒计时特卖第11天</str>
+    <str key="573528116" type="ucdt">弹药携带量 10</str>
+    <str key="573586482" type="ucdt">击杀敌方[#MAX#]单位将恢复800点生命值。&lt;font color="#dc9c36"&gt;仅限[#MAX#]。&lt;/font&gt; </str>
+    <str key="573763307" type="ucdt">Mosquito是Terran Republic的单人飞行器。这是最灵敏、最便捷的阵营专属飞行器。</str>
+    <str key="573769477" type="ucdt">征服者ISO-4奖励</str>
+    <str key="573770391" type="ucdt">&lt;font color="#7FF4FF"&gt;反沉迷惩罚：&lt;/font&gt; </str>
+    <str key="573880033" type="ucdt">1天内获得的个人资源增加30%，小队资源增加3%。</str>
+    <str key="573898133" type="ucdt">炸弹</str>
+    <str key="573898337" type="ucdt">减少75%由爆炸引起的屏幕震动，且你不再受到来自敌人或队友的击退效果。&lt;font color="#dc9c36"&gt;[#MAX#]单位可装备。&lt;/font&gt;</str>
+    <str key="574043432" type="ucdt">&lt;font color='#ffc96d'&gt;传送门充能中&lt;/font&gt;</str>
+    <str key="574122863" type="ucdt">Andvari货舱B</str>
+    <str key="574150344" type="ucdt">使用[#CARBINE#][#KILL#]悬赏目标。</str>
+    <str key="574251967" type="ucdt">C4、步兵发射器、空对地弹头造成的伤害降低20%。</str>
+    <str key="574266868" type="ucdt">9月1日前可用。</str>
+    <str key="574278915" type="ucdt">阿尔戈斯外壳</str>
+    <str key="574293750" type="ucdt">弹药携带量 6</str>
+    <str key="574385742" type="ucdt">GM武器：能量块枪</str>
+    <str key="574512872" type="ucdt">NS-60[#FLAMETHROWER#]：[#SILVER_MEDAL#]</str>
+    <str key="574696555" type="ucdt">错误</str>
+    <str key="574709225" type="ucdt">重突战术套装</str>
+    <str key="574724204" type="ucdt">NSX-P Tanto：[#AURAXIUM_MEDAL#]</str>
+    <str key="574729002" type="ucdt">启动后，将载具包裹在一个涂层中，使其能够穿过敌人的大门护盾，并避免与其他载具碰撞造成的伤害。</str>
+    <str key="574771073" type="ucdt">在任意指定区域部署风暴浮标</str>
+    <str key="574871066" type="ucdt">默认弹夹的弹药容量增加18发。</str>
+    <str key="574883031" type="ucdt">购买</str>
+    <str key="574907270" type="ucdt">按住[%s]键开门</str>
+    <str key="574939237" type="ucdt">武器的装弹时间减少0.5秒。</str>
+    <str key="574965152" type="ucdt">Miller</str>
+    <str key="575037498" type="ucdt">武器能够携带的最大火箭弹数量增加30发。</str>
+    <str key="575078892" type="ucdt">小型重生室FF</str>
+    <str key="575347134" type="ucdt">每打出一次爆头击杀，立即恢复165点护盾。</str>
+    <str key="575380352" type="ucdt">社区服务</str>
+    <str key="575423415" type="ucdt">[#Engineer#]可解锁能远程对载具造成巨大伤害的[#ANTI_VEHICLE#]炮塔。</str>
+    <str key="575580695" type="ucdt">机尾武器：M20 Drake</str>
+    <str key="575652244" type="utdt">下士</str>
+    <str key="575996678" type="ucdt">处于10米之外时，你的雷达标记不再显示在探测设备上。在步行时，你不会被探测设备发现。</str>
+    <str key="576022123" type="ucdt">舞动时间！</str>
+    <str key="576048995" type="ucdt">[#SMOKE_GRENADE#]：[#COPPER_MEDAL#]</str>
+    <str key="576054606" type="ucdt">NS-11C是NS-11A[#ASSAULT_RIFLE#]产品线的变种，结构更为紧凑，在近距离战斗中为携带者提供了更多的选择。所有阵营均可以使用纳能集团的武器。</str>
+    <str key="576150105" type="ucdt">Reaper DMR：[#__SILVER_MEDAL#]</str>
+    <str key="576271267" type="ucdt">在你的武器上添加数字迷彩图案。仅供[#VS#]使用。</str>
+    <str key="576299281" type="ucdt">矮精灵[#DECAL#]</str>
+    <str key="576582267" type="ucdt">Quasar VM1：[#__SILVER_MEDAL#]</str>
+    <str key="576670892" type="ucdt">兑换游戏代码</str>
+    <str key="576944701" type="ucdt">FAC.SCURoomShield.Bio</str>
+    <str key="577118759" type="ucdt">[#ORBIT#]：[#__AURAXIUM_MEDAL#]</str>
+    <str key="577202509" type="ucdt">CAS 14-E：[#GOLD_MEDAL#]</str>
+    <str key="577261760" type="ucdt">这种发电机提供的能量被用于维持保护建筑外围的护盾。如果这些护盾失效，基地最关键的要点就会暴露在敌人面前。</str>
+    <str key="577454388" type="ucdt">Desolation西南部传送门</str>
+    <str key="577473337" type="ucdt">按下[%s]拿起地图</str>
+    <str key="577538828" type="ucdt">在你的载具上添加碳纤维迷彩图案。仅供[#VS#]使用。</str>
+    <str key="577610455" type="ucdt">“珍宝” XMG-100：金质勋章</str>
+    <str key="577716589" type="ucdt">无法移动成员。小队已满。</str>
+    <str key="577745852" type="ucdt">NS-AM7 AE/NC Archer：[#COPPER_MEDAL#]</str>
+    <str key="577791878" type="ucdt">武器能够携带的最大弹药数量增加16发。</str>
+    <str key="577935671" type="ucdt">可以携带更多的火箭</str>
+    <str key="577958199" type="ucdt"> 降低敌人武器造成的伤害，同时将再次使用的冷却时间从36秒降低到33秒。</str>
+    <str key="577987105" type="ucdt">炽天使护盾 4</str>
+    <str key="578137340" type="ucdt">聊天</str>
+    <str key="578146968" type="ucdt">飞行员助攻</str>
+    <str key="578171288" type="ucdt">在冲刺之后，武器的射速会更快。可持续1小时，需要达到12级军衔。</str>
+    <str key="578184861" type="ucdt">激素护盾 2</str>
+    <str key="578249324" type="ucdt">转轮[#CARBINE#]</str>
+    <str key="578367748" type="ucdt">T9A“屠夫”：[#SILVER_MEDAL#]</str>
+    <str key="578573729" type="ucdt">Vanguard NS-A喇叭</str>
+    <str key="578664303" type="ucdt">[#FRAG_GRENADE#]</str>
+    <str key="578803973" type="ucdt">纳能重生设备的充能速度提高11%。</str>
+    <str key="578943445" type="ucdt">受到的爆炸伤害降低约8%。</str>
+    <str key="578945792" type="ucdt">默认弹夹的弹药容量增加1发。</str>
+    <str key="579015993" type="ucdt">&lt;font color="#00FFAA"&gt;Ayla代表：&lt;/font&gt;我还是个小女孩的时候，祖母经常从行星表面找到各种纪念品，带回来给我。有好玩的石头，也有装满泥土和沙子的玻璃容器。我很想念那段时光。</str>
+    <str key="579074053" type="ucdt">将[#SUNDERER#]的最高速度提高4公里/小时。</str>
+    <str key="579108727" type="ucdt">NSX-P Tengu：[#SILVER_MEDAL#]</str>
+    <str key="579133254" type="ucdt">下一级绶带</str>
+    <str key="579162988" type="ucdt">你应该就是他们承诺的新人了。欢迎来到战场，士兵。通过指挥表加入战斗，我们会准确地把你送到最需要的地方。</str>
+    <str key="579266182" type="ucdt">&lt;font color="#00FFAA"&gt;Tolland指挥官：&lt;/font&gt;你好啊，孩子。你不是想来Sanctuary的了望甲板找我吗？现在过来吧。</str>
+    <str key="579274194" type="ucdt">第一武器：轻机枪：T9 CARV-S</str>
+    <str key="579355941" type="ucdt">发现敌军Galaxy！</str>
+    <str key="579424098" type="ucdt">在你的载具上添加[#SCRUB_FOREST#]迷彩图案。所有阵营都可以使用此图案。</str>
+    <str key="579479098" type="ucdt">Solstice VE3性能可靠，适用面广，是非常受欢迎的[#CARBINE#]。</str>
+    <str key="580153459" type="ucdt">Dahaka南部哨所</str>
+    <str key="580320247" type="ucdt">武器能够携带的最大炮弹数量增加50发。</str>
+    <str key="580430759" type="ucdt">不听从自由的呼唤，则将遭受灾祸。[#NC_USE_ONLY#]</str>
+    <str key="580466821" type="ucdt">花岗谷地</str>
+    <str key="580513964" type="ucdt">在你的武器上添加一次性Indar岩石迷彩图案，仅限New Conglomerate阵营使用。此迷彩仅能在配置中使用一次且只能用于这个角色。</str>
+    <str key="580564745" type="ucdt">护盾恢复到满格的速度提升38%，护盾开始恢复前的等待时间减少1秒。</str>
+    <str key="580674924" type="ucdt">&lt;font color="#00FFAA"&gt;Umatherin最高长官：&lt;/font&gt;干得好，助手。你已经证明ANT可以做的不仅仅是分解矿石。 它们曾经甚至被用来在战场上向权力基地运送资源。居然这么用。这就交付报酬。</str>
+    <str key="580776933" type="ucdt">6周年无面盟友[#DECAL#]</str>
+    <str key="581065387" type="ucdt">载具的生命池提高18%，并且C-4可造成的伤害减少35%。</str>
+    <str key="581300871" type="ucdt">北极星原型机小队侦察奖励</str>
+    <str key="581364706" type="ucdt">经验值增加20%。</str>
+    <str key="581366571" type="ucdt">纳能装甲工具包可以修复友方载具、MAX机甲和装备，并且可以摧毁敌方的反坦克地雷。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;按住射击键可以修复，按住瞄准键可以摧毁。&lt;/font&gt;</str>
+    <str key="581551770" type="ucdt">装弹速度 5</str>
+    <str key="581645856" type="ucdt">用这种初出茅庐的语音包个性化你的角色。仅供[#NC#]男性使用。</str>
+    <str key="581794554" type="ucdt">Emerald Research Co.</str>
+    <str key="581813028" type="ucdt">UBP-1 Starfish</str>
+    <str key="581829860" type="ucdt">栏位为空时自动购买此物品。</str>
+    <str key="581956981" type="ucdt">[#TR#][#LIGHT_ASSAULT#]生命 等级1</str>
+    <str key="582174281" type="ucdt">为你的装甲、武器或载具添加迷彩图案。仅供[#NC#]使用。</str>
+    <str key="582241170" type="ucdt">大多数载具都不会受到轻型武器的伤害。为了应对这样威胁，我们需要使用更有杀伤力的武器，比如火箭发射器，C4炸药，反坦克地雷，或者[#ANTI_VEHICLE#][#PHALANX_TURRET#]。</str>
+    <str key="582243966" type="ucdt">远足Kukri：[#GOLD_MEDAL#]</str>
+    <str key="582307448" type="ucdt">可让你使用Cortium建造一座可由友方玩家操纵的防载具方阵塔。仅限Terran Republic阵营使用。</str>
+    <str key="582677488" type="ucdt">将[#MAGRIDER_#]的最高速度提高4公里/小时。</str>
+    <str key="582684644" type="ucdt">让你可以使用能够模拟武器开火声音、投射假雷达信号和七篇自动反步兵炮塔的手雷。</str>
+    <str key="582688653" type="ucdt">Zenith VX-5AE</str>
+    <str key="582708829" type="ucdt">具有高级瞄准系统，可以锁定空中和地面的载具</str>
+    <str key="582720583" type="ucdt">E540 Halberd：[#__SILVER_MEDAL#]</str>
+    <str key="582997993" type="ucdn">Oshur: Sea: Interior: NE: Disabled: 03</str>
+    <str key="583179800" type="ucdt">基于纳能技术的工具，专门用来修复机械系统。</str>
+    <str key="583187188" type="ucdt">弹幕 3</str>
+    <str key="583235931" type="ucdt">高级装备终端破解 5</str>
+    <str key="583379447" type="ucdt">在你的装甲上添加骰子迷彩图案。仅供[#NC#]使用。</str>
+    <str key="583521753" type="ucdt">两脚架</str>
+    <str key="583645388" type="ucdt">[#COMMISSAR#] 1</str>
+    <str key="583705479" type="ucdt">武器能够携带的最大弹药数量增加450发。</str>
+    <str key="583778892" type="ucdt">使用钥匙卡</str>
+    <str key="583856821" type="ucdt">武器能够携带的最大弹药数量增加11发。</str>
+    <str key="583913709" type="ucdt">14 联邦少将 1 涂装</str>
+    <str key="583969522" type="ucdt">Lightning是一种高速轻型坦克，拥有一门主炮，可以在战场上扮演多种角色。</str>
+    <str key="584079416" type="ucdt">暴力地狱[#SKULL#]</str>
+    <str key="584231121" type="ucdt">你也可以使用重新部署机制回到友军建筑。重新部署有10秒倒计时时间。</str>
+    <str key="584257105" type="ucdt">只有你的阵营可以通过通道网络连接到某座建筑时，才可以占领这座建筑。</str>
+    <str key="584327221" type="ucdt">[[*OutfitTag*]] [*OutfitName*]</str>
+    <str key="584402814" type="ucdt">[#GUNNER_KILL_SHARE___#]-Hardlight[#BARRIER#]</str>
+    <str key="584555234" type="ucdt">重突战术套装</str>
+    <str key="584899881" type="ucdt">11/17 VS IOTD</str>
+    <str key="584992471" type="ucdt">Colossus更新</str>
+    <str key="585040679" type="ucdt">你无法在传送门地区进行战斗。使用“J”键加入战斗，前往一个正在发生战斗的区域。</str>
+    <str key="585180609" type="ucdt">前进</str>
+    <str key="585371756" type="ucdt">部署位置过高</str>
+    <str key="585380163" type="ucdt">神速</str>
+    <str key="585396877" type="ucdt">占领基地可以获取此现役绶带绶带。</str>
+    <str key="585438217" type="ucdt">10 联邦少将 5 涂装</str>
+    <str key="585738350" type="ucdt">&lt;font color="#7FF4FF"&gt;证书&lt;/font&gt;不仅可以解锁新的&lt;font color="#7FF4FF"&gt;武器&lt;/font&gt; 、&lt;font color="#7FF4FF"&gt;装备&lt;/font&gt; 和&lt;font color="#7FF4FF"&gt;附件&lt;/font&gt; ，还能够&lt;font color="#7FF4FF"&gt;强化&lt;/font&gt;您的职业和载具，以及作为指挥的能力。</str>
+    <str key="585772146" type="ucdt">[#LIBERATOR#]垂直推力 - 4级</str>
+    <str key="585810077" type="ucdt">从连队中移除</str>
+    <str key="586064253" type="ucdt">[#MAX#]：获取时间减少 3</str>
+    <str key="586078560" type="ucdt">头盔升级 03</str>
+    <str key="586110535" type="ucdt">L-30R Vektor：[#__GOLD_MEDAL#]</str>
+    <str key="586239548" type="ucdt">九头蛇涂装001</str>
+    <str key="586390874" type="ucdt">地面载具：使用载具碾杀100名步兵</str>
+    <str key="586562107" type="ucdt">伞兵</str>
+    <str key="586647772" type="ucdt">[#LIBERATOR#]转弯速率 - 5级</str>
+    <str key="586717948" type="ucdt">将[#VANGUARD#]的获取时间间隔减少630秒</str>
+    <str key="586766310" type="ucdt">[#LIGHT_ASSAULT#][#IMPALER_HELMET#]</str>
+    <str key="587090593" type="ucdt">经验值增加10%。</str>
+    <str key="587464624" type="ucdt">钢铁之躯 1</str>
+    <str key="587493383" type="ucdt">11/13 NC Bundle</str>
+    <str key="587573547" type="ucdt">恭喜你在创作者大赛中获胜！</str>
+    <str key="587608982" type="ucdt">NS-10 Burster：[#__AURAXIUM_MEDAL#]</str>
+    <str key="587753162" type="ucdt">Dahaka泵站</str>
+    <str key="588024695" type="ucdt">杀人蛛[#HOOD_ORNAMENT#]</str>
+    <str key="588034271" type="ucdt">破裂（右手）[#COPPER_MEDAL#]</str>
+    <str key="588178761" type="ucdt">默认弹夹的弹药容量增加50发。</str>
+    <str key="588275272" type="ucdt">无限迷彩</str>
+    <str key="588426106" type="ucdt">每秒Cortium采集量增加50%。 </str>
+    <str key="588464306" type="ucdt">建筑核心致命协助[#KILL#]</str>
+    <str key="588474530" type="ucdt">弹夹容量 1</str>
+    <str key="588566761" type="ucdt">现在可用！</str>
+    <str key="588608445" type="ucdt">火力小队红心路标点</str>
+    <str key="588645581" type="ucdt">在你的载具上添加虎皮条纹迷彩图案。仅供[#VS#]使用。</str>
+    <str key="588791199" type="ucdt">LA7“渡鸦”火力强大，它的锁定技术可以捕获空中和地面目标。</str>
+    <str key="588878130" type="ucdt">双发光子炮能够发射14枚无制导高爆光子火箭。仅供[#VS#]使用。</str>
+    <str key="588931686" type="ucdt">[#GOLD#][#DESCRIPTION#]</str>
+    <str key="589185752" type="ucdt">利用纳能持续进行修理，每5秒恢复2.5%的生命。受到伤害后12秒内无法进行自动修复。</str>
+    <str key="589267166" type="ucdt">第一武器，左手：反步兵/载具：NS35破片火炮</str>
+    <str key="589274100" type="ucdt">百变王牌装甲[#DECAL#]</str>
+    <str key="589315111" type="ucdt">VS前线兵站</str>
+    <str key="589323214" type="ucdt">敌军行动</str>
+    <str key="589564004" type="ucdt">Vanu Sovereignty</str>
+    <str key="589610029" type="ucdt">开启后可在12秒内修复MAX生命值的20%。每48秒可启动一次。</str>
+    <str key="589740794" type="ucdt">[#CENTURION#] 1</str>
+    <str key="589751518" type="ucdt">12倍反射狙击镜（精准型）</str>
+    <str key="589863582" type="ucdt">未绑定</str>
+    <str key="590404832" type="ucdt">仲裁者Ex Nox[#DECAL#]</str>
+    <str key="590522708" type="ucdt">农历新年礼包</str>
+    <str key="590959688" type="ucdt">EHO载具[#DECAL#]</str>
+    <str key="590966165" type="ucdt">独眼巨人[#GLASS_DECAL#]</str>
+    <str key="591010842" type="ucdt">功能</str>
+    <str key="591120512" type="ucdt">已取消制作#count个([*asset*]) </str>
+    <str key="591188792" type="ucdt">军团权限</str>
+    <str key="591322281" type="ucdt">[#FLASH#][#CHROME_2#]保险杠002</str>
+    <str key="591399316" type="ucdt">骸骨碎片[#ARMOR_CAMO#]</str>
+    <str key="591480383" type="ucdt">击杀</str>
+    <str key="591621094" type="ucdt">按下%0可自动加入小队</str>
+    <str key="591626210" type="ucdt">第一武器2：防空武器：XS[#BURSTER#]</str>
+    <str key="591655242" type="ucdt">Allatum广播中心</str>
+    <str key="591731298" type="ucdt">Hossin昆虫[#VEHICLE_CAMO#]</str>
+    <str key="591916777" type="ucdt">副武器：[#PISTOL#]：NS-44LB Blackhand</str>
+    <str key="591990914" type="ucdt">无</str>
+    <str key="592158919" type="ucdt">AU 06</str>
+    <str key="592161488" type="ucdt">[#FLAK_ARMOR#]</str>
+    <str key="592451051" type="ucdt">按下[%s]和少尉对话</str>
+    <str key="592670057" type="ucdt">[#NC#]：[#MAX#]：防御：额外弹药 1 描述</str>
+    <str key="592708058" type="ucdt">H-V45（连射型）：[#COPPER_MEDAL#]</str>
+    <str key="592990088" type="ucdt">增加纳米材料装甲的强度。</str>
+    <str key="593078854" type="ucdt">作为渗透者侵入敌人的终端或炮塔</str>
+    <str key="593242718" type="ucdt">士兵六周年礼包</str>
+    <str key="593250774" type="ucdt">Javelin节日木笛喇叭</str>
+    <str key="593560729" type="ucdt">LA1 Service Anchor</str>
+    <str key="593582433" type="ucdt">感应雷达 3</str>
+    <str key="593726300" type="ucdt">为步兵建造一个带射击区的增强型碉堡。</str>
+    <str key="593728169" type="ucdt">增加[#INFILTRATOR#]破解敌方应用设备终端的速度10%。</str>
+    <str key="593739865" type="ucdt">使用Harasser上的死亡行军喇叭让敌人吓破胆。</str>
+    <str key="593769744" type="ucdt">放置后，模块可在一个区域内为特定的可部署物提供加成</str>
+    <str key="593841803" type="ucdt">Serpent VE92：[#__GOLD_MEDAL#]</str>
+    <str key="593855787" type="ucdt">烈焰炮塔冷却时间</str>
+    <str key="593898728" type="ucdt">极地冰狼头盔</str>
+    <str key="594045258" type="ucdt">在某个活跃Elysium钻头收获的时候控制它。</str>
+    <str key="594141296" type="ucdt">[#INFILTRATOR#]</str>
+    <str key="594270980" type="ucdt">武器能够携带的最大炮弹数量增加17发。</str>
+    <str key="594330858" type="ucdt">白色[#ARMOR_CAMO#]</str>
+    <str key="594333868" type="ucdt">美国</str>
+    <str key="594349885" type="ucdt">装备终端</str>
+    <str key="594375643" type="ucdt">俄罗斯装甲[#DECAL#]</str>
+    <str key="594456560" type="ucdt">无法离开小队，玩家小组错误。</str>
+    <str key="594484293" type="ucdt">守卫建筑</str>
+    <str key="594488363" type="ucdt">NS金属板[#DECAL#]</str>
+    <str key="594497749" type="ucdt">The9服务器名10</str>
+    <str key="594509404" type="ucdt">Bitol北方[#OUTPOST#]</str>
+    <str key="594653043" type="ucdt">爆头击杀时获得50%的武器换弹速度，持续3秒；连续爆头最多可以贮存最多8秒的换弹速度。&lt;font color="#dc9c36"&gt;仅在装备狙击步枪时有效。&lt;/font&gt;</str>
+    <str key="594882203" type="ucdt">为你的驾驶舱增添个性化装饰，在挡风玻璃处加上青绿色[#DECAL#]，仅供[#VS#]使用。</str>
+    <str key="595108615" type="ucdt">装弹速度 1</str>
+    <str key="595120761" type="ucdt">绿魔光轮胎尾迹</str>
+    <str key="595146607" type="ucdn"></str>
+    <str key="595190900" type="ucdt">王牌</str>
+    <str key="595253505" type="ucdt">湛蓝暮光载具[#DECAL#]</str>
+    <str key="595285054" type="ucdt">鉴定完毕，是敌人的摩托</str>
+    <str key="595354786" type="ucdt">清道夫HUD 3</str>
+    <str key="595380299" type="ucdt">漂流者[#HUBCAPS_1#]</str>
+    <str key="595415727" type="ucdt">NC：Sunderer[#DECAL#]</str>
+    <str key="595477564" type="ucdt">流浪者：[#COPPER_MEDAL#]</str>
+    <str key="595516871" type="ucdt">在你的武器上添加一次性[#ARID_FOREST#]迷彩图案，仅供[#NC#]使用。 此迷彩仅能在一处使用一次且只能用于这个角色。</str>
+    <str key="595533747" type="ucdt">[#ILLUMINATED#][#APEX_HELMET#]礼包</str>
+    <str key="595553858" type="ucdt">喷气背包技能线</str>
+    <str key="595576123" type="ucdt">证书农场旗帜</str>
+    <str key="595626670" type="ucdt">仅限本周末！NS-44P Commissioner！</str>
+    <str key="595745804" type="ucdt">允许使用远距离6倍BDS-6[#SCOPE#]。</str>
+    <str key="596454289" type="ucdt">推进器的燃料容量增加220%。[#NC_USE_ONLY#]</str>
+    <str key="596535415" type="utdt">力场生成器</str>
+    <str key="596619723" type="ucdt">战蟹[#DECAL#]</str>
+    <str key="596668566" type="ucdt">Valkyrie紫色XW炫光迷彩</str>
+    <str key="596669594" type="ucdt">Hack CC </str>
+    <str key="596779774" type="ucdt">将[#REAVER#]的获取时间间隔减少180秒。</str>
+    <str key="596848105" type="ucdt">已拆解%0个重复插件</str>
+    <str key="597057014" type="ucdt">查看成员 &gt;</str>
+    <str key="597356413" type="ucdt">Reaver浪涛[#GLASS_DECAL#]</str>
+    <str key="597496150" type="ucdt">乘客分享击杀 - 黄蜂原型机</str>
+    <str key="597581517" type="ucdt">经典熊爪[#DECAL#]</str>
+    <str key="597648878" type="ucdt">[#TR#]初出茅庐语音包</str>
+    <str key="597683462" type="ucdt">Nyx VX31：[#COPPER_MEDAL#]</str>
+    <str key="597790801" type="ucdt">减少敌方震荡、闪光和电磁脉冲手雷的效果持续时间。</str>
+    <str key="597849252" type="ucdt">[#MAX#][#CLASS#]</str>
+    <str key="597934123" type="ucdt">获得资源的数量增加50%。</str>
+    <str key="598153956" type="ucdt">头衔：军团忠诚者</str>
+    <str key="598217210" type="ucdt">弹药携带量 10</str>
+    <str key="598286495" type="ucdt">Valkyrie失败喇叭</str>
+    <str key="598296103" type="ucdt">医疗兵火力套装</str>
+    <str key="598312421" type="ucdt">武器能够携带的最大弹药数量增加80发。</str>
+    <str key="598348926" type="ucdt">你也可以点击鼠标右键进行开镜瞄准。这种射击方式可以大幅度提高射击的准确度，但与此同时，你的移动速度也会降低。</str>
+    <str key="598553155" type="ucdt">武器能够携带的最大弹药数量增加788发。</str>
+    <str key="598575519" type="ucdt">英雄</str>
+    <str key="598646878" type="ucdt">第一武器：[#ANTI_VEHICLE#]：NS-20 Gorgon（左手）</str>
+    <str key="599017454" type="ucdt">在你的载具上添加[#PINE_FOREST#]迷彩图案。仅供[#VS#]使用。此迷彩仅能在一处使用一次且只能用于这个角色。</str>
+    <str key="599126911" type="ucdt">白金武器礼包</str>
+    <str key="599242809" type="ucdt">The9服务器名37</str>
+    <str key="599316597" type="ucdt">现在，对敌人造成伤害后可自动为你和你的友方定位敌人。50米以外击杀敌人将清除你身上的定位效果，并阻止敌人对你进行定位，持续一秒。此外，在任何距离爆头击杀敌人也有此效果。&lt;font color="#dc9c36"&gt;不清除载具上的定位效果。&lt;/font&gt;</str>
+    <str key="599323806" type="ucdt">Havoc头盔</str>
+    <str key="599325076" type="ucdt">[#VS#]：载具[#__CUSTOMIZATION__#]PS2标志促销</str>
+    <str key="599367507" type="ucdt">[#TR#][#MALE#][#COMBAT_MEDIC#]</str>
+    <str key="599410665" type="ucdt">堡垒装甲 3</str>
+    <str key="599416228" type="ucdt">收集珍贵的资源只是一半的难题。资源的运输同样困难重重。完成资源警报，帮助Nascent Expeditions运输货物。</str>
+    <str key="599541879" type="ucdt">M12C柯柏特机枪</str>
+    <str key="599623055" type="ucdt">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;我们的其中一个探员可以进入生物实验室，但在找到文件之前，可能没法把设备带出来。</str>
+    <str key="599708128" type="ucdt">[#NC#][#FEMALE#]轻型突击兵</str>
+    <str key="599887308" type="ucdt">喇叭</str>
+    <str key="599923703" type="ucdt">可以使用前方把手。前方把手能加强使用者对武器的控制力，同时降低水平方向的后坐力。</str>
+    <str key="600037514" type="ucdt">BTYR军团涂装</str>
+    <str key="600198716" type="ucdt">M40 Fury：[#__AURAXIUM_MEDAL#]</str>
+    <str key="600217608" type="ucdt">Allatum的生物实验室已被[*faction*]占领。</str>
+    <str key="600257830" type="ucdt">武器能够携带的最大弹药数量增加70发。</str>
+    <str key="600334980" type="ucdt">武器的装弹时间减少30毫秒。</str>
+    <str key="600411629" type="ucdt">完成装弹或受到坠落伤害后的1.5秒内，你的冲刺速度提高20%，跳跃高度大幅增加，并且你可以极快地开始冲刺。用武器射击会导致效果提前结束。</str>
+    <str key="600430263" type="ucdt">[#FLAK_ARMOR#]可以对近距离的爆炸提供额外的防护。</str>
+    <str key="600475489" type="ucdt">[#TR#]：[#CARBINE#][#DECAL#]</str>
+    <str key="600514577" type="ucdt">地雷防护 1</str>
+    <str key="600598079" type="ucdt">Harasser浅色条纹轮胎</str>
+    <str key="600604567" type="ucdt">为你的载具添加[#DECAL#]。[#NC_USE_ONLY#]。</str>
+    <str key="600695466" type="ucdt">解锁</str>
+    <str key="600758374" type="ucdt">“集群”天狗：奥星奖章</str>
+    <str key="600863132" type="ucdt">护盾持续激活的时间延长至13.5秒。</str>
+    <str key="600959412" type="ucdt">纳能区域修理系统 1</str>
+    <str key="601008613" type="ucdt">Imbanon Interlink</str>
+    <str key="601015819" type="ucdt">为该角色解锁闪电手雷。闪电手雷使用&lt;font color="#ACE1E5"&gt;&lt;u&gt;纳能&lt;/u&gt;&lt;/font&gt;进行补充。当这种黏性手雷被扔出去时，它会在它的位置为雷击创造条件。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;一道闪电显现需要耗费6秒。&lt;/font&gt;&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;该物品将在战役结束时失效。&lt;/font&gt;</str>
+    <str key="601030519" type="ucdt">上尉 5 涂装</str>
+    <str key="601071741" type="ucdt">NS Commando：[#GOLD_MEDAL#]</str>
+    <str key="601493123" type="ucdt">Synthium探险</str>
+    <str key="601548244" type="ucdt">[*source*]邀请您加入[*guild*]军团。</str>
+    <str key="601551106" type="ucdt">[#SEARHUS#][#OUTPOST#]</str>
+    <str key="601576398" type="ucdt">将箱子连接至电源</str>
+    <str key="601656524" type="ucdt">固定模式 1</str>
+    <str key="601785730" type="ucdt">为你的Liberator添加个性化[#PLATING#]。所有阵营都可以使用此装备。</str>
+    <str key="601823788" type="ucdt">Rx2（2倍） - T型点</str>
+    <str key="601909675" type="ucdt">军团：在你的军团中获得5种证书</str>
+    <str key="601985340" type="ucdt">首席执法官</str>
+    <str key="601993268" type="ucdt">此头盔只在万圣节活动期间现身，使用时提供10%的经验值加成。一旦活动以可怕的方式结束，该物品就会消失在它来时的深渊中，直到下一个万圣节！</str>
+    <str key="602138192" type="ucdt">武器能够携带的最大弹药数量增加304发。</str>
+    <str key="602200817" type="ucdt">U-ARX Dirac Auraxium勋章</str>
+    <str key="602211332" type="ucdt">使用[#ASSAULT_RIFLE#][#KILL#]一个悬赏目标。</str>
+    <str key="602264444" type="ucdt">中将 4</str>
+    <str key="602370725" type="ucdt">要塞炮塔热效率</str>
+    <str key="602390702" type="ucdt">Mulac净化场</str>
+    <str key="602428919" type="ucdt">为你的载具添加[#DECAL#]。仅供[#TR#]使用。</str>
+    <str key="602443356" type="ucdt">守住Iron Quay、SRP水培公司、VEX生物储藏所或者Nason's Defiance，以赚取点数。</str>
+    <str key="602483729" type="ucdt">导师</str>
+    <str key="602554273" type="ucdt">7倍[#SCOPE#]</str>
+    <str key="602638880" type="ucdt">会员专享 - 史诗</str>
+    <str key="602717349" type="ucdt">为你的驾驶舱增添个性化装饰，在挡风玻璃处加上新联邦标志的涂装。仅供[#NC#]使用。</str>
+    <str key="602724973" type="ucdt">ANT M40 Fury</str>
+    <str key="602729464" type="ucdt">丘比特喇叭礼包</str>
+    <str key="603141446" type="ucdt">包含适合所有非MAX步兵职业的仲裁者装甲。</str>
+    <str key="603196592" type="ucdt">用这种发色如霜的语音包个性化你的角色。仅供[#VS#]男性使用。</str>
+    <str key="603219793" type="ucdt">可让你使用Cortium建造一间能保护已部署Sunderer的车库。仅限Terran Republic阵营使用。</str>
+    <str key="603294056" type="ucdt">来自轻型武器的伤害减少20%。</str>
+    <str key="603500309" type="ucdt">武器的装弹时间减少8.75%</str>
+    <str key="603555769" type="ucdt">C75 Viper：[#__AURAXIUM_MEDAL#]</str>
+    <str key="603556454" type="ucdt">AXN载具[#DECAL#]</str>
+    <str key="603646339" type="ucdt">使用万圣节活动武器可以获取此现役绶带</str>
+    <str key="603670999" type="ucdt">在你的武器上添加一次性Amerish草原迷彩图案，仅限Terran Republic阵营使用。此迷彩仅能在配置中使用一次且只能用于这个角色。</str>
+    <str key="603783926" type="ucdt">[#INFILTRATOR#]：白银</str>
+    <str key="604048854" type="ucdt">8比特[#TR#]载具[#DECAL#]</str>
+    <str key="604081340" type="ucdt">轻型雪中迷彩装甲，可以美化角色的外观。[#TR_USE_ONLY#]</str>
+    <str key="604188759" type="ucdt">武器的装弹时间减少7.5%</str>
+    <str key="604288140" type="ucdt">将[#LIGHTNING#]的最高速度提高8公里/小时。</str>
+    <str key="604676700" type="ucdt">Terran Republic占领了Rashanu！</str>
+    <str key="604702061" type="ucdt">TSAR-42：[#__AURAXIUM_MEDAL#]</str>
+    <str key="604776419" type="ucdt">Ctrl（右边）</str>
+    <str key="604849852" type="ucdt">[#FLASH#]的获取时间间隔缩短150秒</str>
+    <str key="604931892" type="ucdt">将[#MOSQUITO#]无动力状态时的降落速度减少为4公里/小时。</str>
+    <str key="604986868" type="ucdt">武器能够携带的最大弹药数量增加8发。</str>
+    <str key="605043055" type="ucdn">May, Klaus</str>
+    <str key="605198177" type="ucdt">处女座：[#COPPER_MEDAL#]</str>
+    <str key="605222518" type="ucdt">静止1秒可以使你获得20%轻型武器身体命中抗性。一旦移动，效果即消失。&lt;font color="#dc9c36"&gt;不与Nanoweave装甲叠加。在载具中无法激活。&lt;/font&gt;</str>
+    <str key="605258148" type="ucdt">M20 Basilisk：[#__AURAXIUM_MEDAL#]</str>
+    <str key="605324866" type="ucdt">Reaver挂载武器</str>
+    <str key="605351693" type="ucdt">为你的装甲添加闪电打击迷彩图案。仅限New Conglomerate阵营使用。</str>
+    <str key="605431755" type="ucdt">武器能够携带的最大弹药数量增加75发。</str>
+    <str key="605489679" type="ucdt">信息屏幕</str>
+    <str key="605558172" type="ucdt">反雷达装置</str>
+    <str key="605702279" type="ucdt">蓝蟹[#MAX#]头盔</str>
+    <str key="605728481" type="ucdt">Heyoka</str>
+    <str key="605822985" type="ucdt">NSX-P Tengu：[#GOLD_MEDAL#]</str>
+    <str key="606237816" type="ucdt">[#SUPPRESSOR#]</str>
+    <str key="606247116" type="ucdt">Vector</str>
+    <str key="606386202" type="ucdt">标准的反射目镜，可以让你更快、更准确地瞄准目标。</str>
+    <str key="606453077" type="ucdt">个人经验值增加50%，小队经验值增加5%。持续一天。此加成只能在本角色身上使用。</str>
+    <str key="606479082" type="ucdt">战斗医生 3</str>
+    <str key="606488196" type="ucdn">TR TORQ-9 + Cert</str>
+    <str key="606734045" type="ucdt">窃取 1</str>
+    <str key="606748357" type="ucdt">你阵营的胜利让你获得了Indar空中载具的20%折扣优惠！</str>
+    <str key="606929948" type="ucdt">NS-44B Commissioner：[#COPPER_MEDAL#]</str>
+    <str key="607058634" type="ucdt">为你的载具添加鲨鱼牙齿涂装。</str>
+    <str key="607103948" type="ucdt">Darkstar创伤[#HELMET#]</str>
+    <str key="607213200" type="ucdt">用这个[#DECAL#]庆祝《Planetside 2》五周年。该[#DECAL#]适用于载具。</str>
+    <str key="607219512" type="ucdt">狂热者医疗兵装甲</str>
+    <str key="607251368" type="ucdt">新手玩家定向促销</str>
+    <str key="607605294" type="ucdt">[#TR#]</str>
+    <str key="607823203" type="ucdt">Sunderer雾滩头灯</str>
+    <str key="608017414" type="ucdt">武器能够携带的最大弹药数量增加16发。</str>
+    <str key="608034302" type="ucdt">MG-HBR1 Dragoon - 全副武装礼包</str>
+    <str key="608105753" type="ucdt">招募奖励 等级4</str>
+    <str key="608211746" type="ucdt">幽灵以迦博皇冠</str>
+    <str key="608226382" type="ucdt">TSO-2（2倍） - T型点</str>
+    <str key="608243350" type="ucdt">感谢您对游戏的持续支持！</str>
+    <str key="608340609" type="ucdt">骸骨碎片[#VEHICLE_CAMO#]</str>
+    <str key="608363196" type="ucdt">武器的装弹时间减少0.4秒。</str>
+    <str key="608553819" type="ucdt">默认</str>
+    <str key="608584795" type="ucdt">C85可以发射重型霰弹，对步兵及轻型护甲单位造成致命的伤害。仅供[#NC#]使用。</str>
+    <str key="608601816" type="ucdt">基于Harasser的Mjolnir扩展弹夹证书已退款，并且已替换为二阶版本。</str>
+    <str key="608679871" type="ucdt">Vanu解码</str>
+    <str key="608813180" type="ucdt">NEST发射器：[#SILVER_MEDAL#]</str>
+    <str key="608859099" type="ucdt">获得的战绩点和经验值增加50%，持续1天。此加成仅限该角色使用。</str>
+    <str key="608908382" type="ucdt">你每秒会自动恢复8%生命值。受到伤害后8秒内无法进行自动修复。</str>
+    <str key="608939689" type="ucdt">新任务</str>
+    <str key="608946065" type="ucdt">冲刺</str>
+    <str key="608971684" type="ucdt">[#TR#][#ROCKET_LAUNCHER#]描述</str>
+    <str key="609274560" type="ucdt">Magrider管风琴喇叭</str>
+    <str key="609413389" type="ucdt">武器能够携带的最大导弹数量增加30发。</str>
+    <str key="609490560" type="ucdt">被[*faction*]夺取的Bago三叉戟</str>
+    <str key="609608105" type="ucdt">Light Assault依靠高机动性来提高效率。使用喷气背包从各个不同的角度进攻。</str>
+    <str key="609641673" type="ucdt">Snake Ravine哨所</str>
+    <str key="609648478" type="ucdt">经典骷髅盾牌[#DECAL#]</str>
+    <str key="609714041" type="ucdt">占领Dahaka电力中心。</str>
+    <str key="609774120" type="ucdt">拳击手：[#__SILVER_MEDAL#]</str>
+    <str key="609835355" type="ucdt">[#NANO_REGEN_DEVICE#] 2</str>
+    <str key="609970312" type="ucdt">武器能够携带的最大弹药数量增加25发。</str>
+    <str key="610001547" type="ucdt">舱门</str>
+    <str key="610109912" type="ucdt">[#GENERAL#]</str>
+    <str key="610153887" type="ucdt">Quartz Ridge营地</str>
+    <str key="610196298" type="ucdt">[#TR#][#JET_PACK#]技能3</str>
+    <str key="610238985" type="ucdt">万弹齐发载具[#DECAL#]</str>
+    <str key="610249162" type="ucdt">NC6S Gauss SAW S：[#__SILVER_MEDAL#]</str>
+    <str key="610530974" type="ucdt">武器的装弹时间减少0.1秒。</str>
+    <str key="610542705" type="ucdt">[#VS#]：载具[#__CUSTOMIZATION__#]独狼[#DECAL#]促销</str>
+    <str key="610631775" type="ucdt">7年忠诚旗帜</str>
+    <str key="610698081" type="ucdt">军团领导层对你在[#AURAXIS#]战争中提供支援的认可。</str>
+    <str key="610730677" type="ucdt">NC05-P Jackhammer</str>
+    <str key="610743751" type="ucdt">武器能够携带的最大弹药数量增加180发。</str>
+    <str key="610745075" type="ucdt">消音器</str>
+    <str key="610870338" type="ucdt">用这种悍勇无畏的语音包个性化你的角色。仅供[#NC#]男性使用。</str>
+    <str key="611057701" type="ucdt">[#HARBINGER_#] 2</str>
+    <str key="611281630" type="ucdt">Dervish炫光迷彩</str>
+    <str key="611284192" type="ucdt">纳能修复手雷能随着时间修复区域中的机械目标。</str>
+    <str key="611320031" type="ucdt">遗迹Akka</str>
+    <str key="611370303" type="ucdt">Phoenix AE：[#COPPER_MEDAL#]</str>
+    <str key="611476847" type="ucdt">&lt;font color="#7FF4FF"&gt;会员小队加成：&lt;/font&gt;</str>
+    <str key="611495070" type="ucdt">武器的装弹时间减少0.48秒。</str>
+    <str key="611548714" type="ucdt">蓝色Vanguard底盘灯光</str>
+    <str key="611657235" type="ucdt">侦测载具附近50米内敌人士兵的移动，并将他们显示在所有载具乘员的小地图上。</str>
+    <str key="611687471" type="ucdt">为正在使用的武器更换弹夹。如果弹夹中留有子弹，很多武器可以更快的完成装填。</str>
+    <str key="611791527" type="ucdt">[#TR#][#PISTOL#]</str>
+    <str key="611972237" type="ucdt">加成</str>
+    <str key="612001343" type="ucdt">创建</str>
+    <str key="612040777" type="ucdt">流亡：[#__AURAXIUM_MEDAL#]</str>
+    <str key="612069414" type="ucdt">每一个友方建筑中都会有重生室，重生室是受到保护的，在离开重生室之前你可以做好万全的准备。</str>
+    <str key="612076410" type="ucdt">[#BARRIER#][#DESCRIPTION#]</str>
+    <str key="612087878" type="ucdt">将[#LIGHTNING#]的炮塔旋转速度增加25度/秒。</str>
+    <str key="612327179" type="ucdt">[#DESCRIPTION#]</str>
+    <str key="612455507" type="ucdt">[#CARBINE#]类武器可供轻型突击兵及工程师使用。</str>
+    <str key="612463384" type="ucdt">T32 Bull：[#__AURAXIUM_MEDAL#]</str>
+    <str key="612494849" type="ucdt">四叶草[#DECAL#]</str>
+    <str key="612525464" type="ucdt">启动后在Flash表面制造一层涂层，让它可穿过敌方大门的护盾。持续14秒，每60秒可以启动一次。</str>
+    <str key="612641787" type="ucdt">工业化[#VEHICLE_CAMO#]</str>
+    <str key="612715491" type="ucdt">Prowler丘比特喇叭</str>
+    <str key="612836953" type="ucdt">NS-61 Emissary</str>
+    <str key="612884761" type="ucdt">Mosquito Locust火炮</str>
+    <str key="613203188" type="ucdt">武器能够携带的最大火箭弹数量增加18发。</str>
+    <str key="613248082" type="ucdt">敌方基地不是你想去就能去的。用敌人意想不到的路线包抄他们！</str>
+    <str key="613379491" type="ucdt">狙击手：</str>
+    <str key="613497517" type="ucdt">黏性手雷：[#__SILVER_MEDAL#]</str>
+    <str key="613648571" type="ucdt">及时送达消息</str>
+    <str key="613666201" type="ucdt">突击队员 2 涂装</str>
+    <str key="613666659" type="ucdt">Liberator死亡行军喇叭</str>
+    <str key="613803891" type="ucdt">为你的角色解锁个性旗帜。</str>
+    <str key="613914923" type="ucdt">将[#MAGRIDER_#]的闲置时间延长为30分钟。</str>
+    <str key="614044636" type="ucdt">右侧武器</str>
+    <str key="614251729" type="ucdt">为你的载具添加[#DECAL#]。仅供[#TR#]使用。</str>
+    <str key="614526478" type="ucdt">将[#GALAXY#]的闲置时间延长为9分钟。</str>
+    <str key="614559191" type="ucdt">鬼魂头盔</str>
+    <str key="614618666" type="ucdt">调查破碎Warpgate臂</str>
+    <str key="614628094" type="ucdt">战斗医疗兵是多用途的步兵兵种。他们可以治疗并复生自己的队友。</str>
+    <str key="614742689" type="ucdt">[#HARASSER#]</str>
+    <str key="614750152" type="ucdt">解锁BAR-100和全套附件。仅供NSO使用。</str>
+    <str key="614844899" type="ucdt">启用后可以干扰导弹的锁定功能，使其无法追踪载具，持续8秒。每35秒可启用一次。</str>
+    <str key="614904816" type="ucdt">SG-ARX Rutherford银质勋章</str>
+    <str key="615017188" type="ucdt">红色Magrider底盘灯光</str>
+    <str key="615050103" type="ucdt">按下“Q”(默认)来发现敌人。你和你盟友的小地图将会显示被发现敌人的位置，并标记他们以供查看。</str>
+    <str key="615058558" type="ucdt">Andvari Ruins</str>
+    <str key="615074544" type="ucdt">TR军团（%0）</str>
+    <str key="615086769" type="ucdt">“敌军活动”的过滤选项将在地图上以红色显示敌方部队的行动。</str>
+    <str key="615160429" type="ucdt">炮塔AI模块</str>
+    <str key="615336751" type="ucdt">将[#HARASSER#]的闲置时间延长至21分钟。</str>
+    <str key="615739725" type="ucdt">NC-HA001标准头盔</str>
+    <str key="615793831" type="ucdt">在你的武器上添加[#URBAN_FOREST#]迷彩图案，仅供[#TR#]使用。</str>
+    <str key="615986358" type="ucdt">热量追踪</str>
+    <str key="616133049" type="ucdt">武器的装弹时间减少0.36秒。</str>
+    <str key="616232493" type="ucdt">Corvus VA55：[#__SILVER_MEDAL#]</str>
+    <str key="616331275" type="ucdt">旅行者头盔</str>
+    <str key="616359256" type="ucdt">Sunderer：性能插槽</str>
+    <str key="616467450" type="ucdt">高级执政官 4</str>
+    <str key="616549217" type="ucdt">Liberator警报[#GLASS_DECAL#]</str>
+    <str key="616558376" type="ucdt">在你的载具上添加迷彩图案。所有阵营都可以使用此图案。</str>
+    <str key="616577492" type="ucdn">Innova Placeholder Title 48 Description</str>
+    <str key="616583499" type="ucdt">Flare VE6：[#COPPER_MEDAL#]</str>
+    <str key="616604306" type="ucdt">[#MAGRIDER_#]喇叭 01</str>
+    <str key="616744130" type="ucdt">默认弹夹容量增加1发。</str>
+    <str key="616772268" type="ucdt">武器的装弹时间减少0.75秒。</str>
+    <str key="617171719" type="ucdt">[#MAX#]：青铜</str>
+    <str key="617247803" type="ucdt">[#DESCRIPTION#]</str>
+    <str key="617427472" type="ucdt">2015假日倒计时特卖第24天</str>
+    <str key="617663222" type="ucdt">载具武器 9</str>
+    <str key="617666294" type="ucdt">碳纤维网眼[#ARMOR_CAMO#]</str>
+    <str key="617739038" type="ucdt">武器的装弹时间减少0.4秒。</str>
+    <str key="617830565" type="ucdt">L-24R Spur：[#__SILVER_MEDAL#]</str>
+    <str key="617927161" type="ucdt">NC6S Gauss SAW S：[#__GOLD_MEDAL#]</str>
+    <str key="618006325" type="ucdt">点击“加入战斗”后将开始短暂倒计时，然后将你送到最需要你的地方参战。</str>
+    <str key="618255170" type="ucdt">NFI-2000涡轮发动机 2</str>
+    <str key="618599575" type="ucdt">商店</str>
+    <str key="618701223" type="ucdt">报点</str>
+    <str key="618729259" type="ucdt">爱国者[#VEHICLE_CAMO#]</str>
+    <str key="618743799" type="ucdt">[#NC#][#INFILTRATOR#][#SNIPER_RIFLE#]分组描述</str>
+    <str key="618771704" type="ucdt">路标点</str>
+    <str key="618785033" type="ucdt">Bridgewater船运码头</str>
+    <str key="618793075" type="ucdt">机腹武器：L105 Zephyr PX</str>
+    <str key="618963871" type="ucdt">特工 3 涂装</str>
+    <str key="619198163" type="ucdt">Heyoka科技工厂已被[*faction*]占领。</str>
+    <str key="619335824" type="ucdt">[#SEARHUS#][#OUTPOST#]</str>
+    <str key="619435514" type="ucdt">占领Ikanam生物实验室。</str>
+    <str key="619511900" type="ucdt">骑手 2</str>
+    <str key="619646229" type="ucdt">空投舱外形描述</str>
+    <str key="619812685" type="ucdt">[#DESCRIPTION#]</str>
+    <str key="619870941" type="ucdt">武器的装弹时间减少0.15秒。</str>
+    <str key="619974569" type="ucdt">在你的武器上添加一次性[#AFRICAN_FOREST#]迷彩图案，仅供[#NC#]使用。 此迷彩仅能在一处使用一次且只能用于这个角色。</str>
+    <str key="620030640" type="ucdt">调试控制台开关</str>
+    <str key="620126207" type="ucdt">Indar礼包</str>
+    <str key="620260602" type="ucdt">默认弹夹的弹药容量增加1发。</str>
+    <str key="620494534" type="ucdt">弹夹附件 1</str>
+    <str key="620538573" type="ucdt">Ripper：[#__GOLD_MEDAL#]</str>
+    <str key="620545523" type="ucdt">[#DESCRIPTION#]</str>
+    <str key="620638331" type="ucdt">后座护盾 3</str>
+    <str key="620677840" type="ucdt">武器的装弹时间减少0.48秒。</str>
+    <str key="620685152" type="ucdt">报告名称</str>
+    <str key="620700767" type="ucdt">[#NC#]全息[#HOOD_ORNAMENT#]</str>
+    <str key="620776547" type="ucdt">肩扛式武器类型</str>
+    <str key="620868275" type="ucdt">获得一架装备有风暴浮标功能道具的Valkyrie</str>
+    <str key="620874156" type="ucdt">哨所丢掉了</str>
+    <str key="620886761" type="ucdt">进一步增加将队友重生的剩余生命值，同时短时间加快移动速度</str>
+    <str key="620887464" type="ucdt">M12 Kobalt：[#__AURAXIUM_MEDAL#]</str>
+    <str key="621227019" type="ucdt">[#JUMP_JETS#]</str>
+    <str key="621420930" type="ucdt">射击头部可以对目标造成更高的伤害，尤其是当你使用强大的狙击步枪时更是如此。</str>
+    <str key="621444290" type="ucdt">[#SINGLE_USE#]Esamir冰原[#WEAPON_CAMO#]</str>
+    <str key="621489937" type="ucdt">快速聊天 2</str>
+    <str key="621492928" type="ucdt">高级装备终端破解 4</str>
+    <str key="621501431" type="ucdt">将武器的装弹速度提高15%。</str>
+    <str key="621573516" type="ucdt">连队路标</str>
+    <str key="621682100" type="ucdt">Indar高地V2[#ARMOR_CAMO#]</str>
+    <str key="621895396" type="ucdt">杰尼斯的嗜好</str>
+    <str key="622228403" type="ucdt">在Sunderer的车架下面安装绿色的底盘灯光。仅限Vanu Sovereignty阵营使用。</str>
+    <str key="622265246" type="ucdt">腐蚀</str>
+    <str key="622355433" type="ucdt">城主 4 涂装</str>
+    <str key="622364985" type="ucdt">您没能邀请[*target*]加入您的小队。</str>
+    <str key="622425190" type="ucdt">M60-G Bulldog：[#COPPER_MEDAL#]</str>
+    <str key="622793800" type="ucdn">Pugh, Michaela</str>
+    <str key="622945779" type="ucdt">建筑者</str>
+    <str key="623123593" type="ucdt">法老头盔</str>
+    <str key="623387932" type="ucdt">部署一个齐胸高的Hardlight[#BARRIER#]，在敌方攻击下保护你，直至时间到期或被摧毁。同一时间只能拥有一道屏障。</str>
+    <str key="623628990" type="ucdt">Sunderer幽灵尖啸喇叭</str>
+    <str key="623638567" type="ucdt">第一武器：轻机枪：T32 Bull</str>
+    <str key="623737908" type="ucdt">手雷</str>
+    <str key="623819997" type="ucdt">防空[#MAX#]</str>
+    <str key="624229372" type="ucdt">要塞[#MAX#]装甲</str>
+    <str key="624237266" type="ucdt">前方装甲</str>
+    <str key="624241054" type="ucdt">[#FRAG_GRENADE#]：[#__AURAXIUM_MEDAL#]</str>
+    <str key="624438078" type="ucdt">将[#MAGRIDER_#]的闲置时间延长为7分钟。</str>
+    <str key="624676441" type="ucdt">使用者在跑步状态下也可以完全隐身。</str>
+    <str key="624691211" type="ucdt">武器的装弹时间减少0.1秒。</str>
+    <str key="624713921" type="ucdt">红雾载具[#DECAL#]</str>
+    <str key="624764429" type="ucdt">[#HARASSER#]</str>
+    <str key="624796680" type="ucdt">Genesis地形改造工厂</str>
+    <str key="624879111" type="ucdt">NS-7 PDW</str>
+    <str key="624928062" type="ucdt">在士兵周围6米范围内生成一个随时间衰减的纳能护盾，为附近队友减少25%的伤害。受到的伤害不会使此护盾消失得更快。&lt;font color="#dc9c36"&gt;&lt;br&gt;&lt;br&gt;NC重型突击兵能力。该物品将在战役结束时失效。&lt;/font&gt;</str>
+    <str key="625010795" type="ucdt">证书附件</str>
+    <str key="625048151" type="ucdt">NC12 Sweeper：[#__GOLD_MEDAL#]</str>
+    <str key="625061234" type="ucdt">为你的驾驶舱增添个性化装饰，在挡风玻璃处加上棕褐涂装。仅供[#TR#]使用。</str>
+    <str key="625104426" type="ucdt">载具：Valkyrie</str>
+    <str key="625130640" type="ucdt">纳能网生成器的完全充能时间减少至28秒。</str>
+    <str key="625190627" type="ucdt">仅限今日！NS Victory上架！</str>
+    <str key="625199830" type="ucdt">Liberator鲜血[#GLASS_DECAL#]</str>
+    <str key="625214199" type="ucdt">NS-30 Tranquility：[#SILVER_MEDAL#]</str>
+    <str key="625284935" type="ucdt">Indar树丛-[#SINGLE_USE#]</str>
+    <str key="625295702" type="ucdt">工具袋</str>
+    <str key="625431348" type="ucdt">显示带有阵营颜色的热点</str>
+    <str key="625997463" type="ucdt">集结点 - 橙色</str>
+    <str key="626091869" type="ucdt">拆卸</str>
+    <str key="626222206" type="ucdt">战斗小鸡</str>
+    <str key="626231843" type="ucdt">Reaver上配置的M20 Kestrel弹夹容量大、着弹点范围广，在射击精度不高的情况下仍可命中目标。仅限New Conglomerate阵营使用。</str>
+    <str key="626237953" type="ucdt">用这种久经沙场的语音包个性化你的角色。仅供[#TR#]女性使用。</str>
+    <str key="626368211" type="ucdt">弹夹大小&lt;br&gt;弹药容量</str>
+    <str key="626368486" type="ucdt">SOAS-20：[#__SILVER_MEDAL#]</str>
+    <str key="626567973" type="ucdt">哥利亚[#HUBCAPS#]</str>
+    <str key="626647392" type="ucdt">VS001[#HUBCAPS#]</str>
+    <str key="626672763" type="ucdt">一种可以用来侦测目标范围内敌军的手雷，可以探测到渗透者。</str>
+    <str key="627115795" type="ucdt">资源</str>
+    <str key="627337898" type="ucdt">[#GUNNER_KILL_ASSIST_SHARE___#]炮塔</str>
+    <str key="627361930" type="ucdt">Harasser Saron HRB-H[第一武器]</str>
+    <str key="627573333" type="ucdt">可让你使用Cortium制造一座尖塔，对15米范围内的敌方步兵和[#MAX#]造成伤害。所有阵营都可以使用此物品。</str>
+    <str key="627656022" type="ucdt">空中格斗机身</str>
+    <str key="627934128" type="ucdt">爬行者卷扬机工具</str>
+    <str key="627980078" type="ucdt">此玩家在载具中时可以向路过的队友提供弹药。</str>
+    <str key="628028497" type="ucdt">T</str>
+    <str key="628030753" type="ucdt">小队目标</str>
+    <str key="628313200" type="ucdt">Flash：防御插槽</str>
+    <str key="628709810" type="ucdt">搜索地区 [Ctrl+F]</str>
+    <str key="628843025" type="ucdt">为你的装甲添加[#DECAL#]。[#NC_USE_ONLY#]。</str>
+    <str key="628845997" type="ucdt">晋升至连队队长？</str>
+    <str key="628902419" type="ucdt">[#POLARIS#]：[#__SILVER_MEDAL#]</str>
+    <str key="628943874" type="ucdt">M60-G Bulldog：[#COPPER_MEDAL#]</str>
+    <str key="629079898" type="ucdt">按住[%s]键使发电机稳定下来</str>
+    <str key="629177045" type="ucdt">任何空中载具，除了Bastion舰队航母。</str>
+    <str key="629246088" type="ucdn">Innova Placeholder Title 27 Description</str>
+    <str key="629321687" type="ucdt">M12 Kobalt：[#COPPER_MEDAL#]</str>
+    <str key="629364431" type="ucdt">NS-60[#FLAMETHROWER#]：[#SILVER_MEDAL#]</str>
+    <str key="629498859" type="ucdt">访问等级：</str>
+    <str key="629671657" type="ucdt">[#INFILTRATOR#]诱饵手雷可以欺骗烈焰炮塔，诱使炮塔对它们进行射击。</str>
+    <str key="629985046" type="ucdt">提升Vanguard的峰值速度和加速度。</str>
+    <str key="630156809" type="ucdt">传奇：电磁脉冲护盾 2</str>
+    <str key="630189638" type="ucdt">[#NC#]普通型[#INFILTRATOR#][#SNIPER_RIFLE#]描述</str>
+    <str key="630242065" type="ucdt">为你的装甲添加[#DECAL#]。仅供[#TR#]使用。</str>
+    <str key="630517739" type="ucdt">速爆闪光手雷</str>
+    <str key="630627516" type="ucdt">TAR-S：[#__SILVER_MEDAL#]</str>
+    <str key="630666572" type="ucdt">New Conglomerate - 《Planetside 2》基础训练</str>
+    <str key="630783634" type="ucdt">所有非MAX职业都可以装备。仅供[#NC#]使用。</str>
+    <str key="630805623" type="ucdt">&lt;font color="#00FFAA"&gt;故障间谍无人机：&lt;/font&gt;更新，PapaVanu4U。下载目前已完成60%。继续防止干扰。</str>
+    <str key="630823678" type="ucdt">用NSX Masamune摧毁敌方载具。</str>
+    <str key="630950151" type="ucdt">资源说明</str>
+    <str key="631071402" type="ucdt">滚动链条迷彩</str>
+    <str key="631199011" type="ucdt">Light PPA：[#__SILVER_MEDAL#]</str>
+    <str key="631559402" type="ucdt">&lt;font color="#00FFAA"&gt;Umatherin执政官：&lt;/font&gt;我们的重生矩阵出了问题，但好像没有一个人在意！不管你是谁，只要你能用医疗枪治疗并复活你的队友，让我有机会监测这样做对矩阵造成的影响，我就支付你一笔酬劳。</str>
+    <str key="631578693" type="ucdt">方块</str>
+    <str key="631725780" type="ucdt">顶部武器：M12 Kobalt</str>
+    <str key="631749729" type="ucdt">[#HARASSER#]</str>
+    <str key="631764969" type="ucdt">Galaxy证书[#GLASS_DECAL#]</str>
+    <str key="631935570" type="ucdt">首席主教 1</str>
+    <str key="632071464" type="ucdt">M20 Basilisk：[#__AURAXIUM_MEDAL#]</str>
+    <str key="632081616" type="ucdt">Scythe就在附近。</str>
+    <str key="632169203" type="ucdt">为你的装甲添加[#DECAL#]。仅供[#TR#]使用。</str>
+    <str key="632186387" type="ucdt">奖给Javelin的驾驶大师，这种注入了奥星元素的炫光迷彩证明拥有者驾驶支援载具的成就。</str>
+    <str key="632264933" type="ucdt">锁链刀：[#AURAXIUM_MEDAL#]</str>
+    <str key="632303343" type="ucdt">为你的载具添加[#DECAL#]。[#VS_USE_ONLY#]。</str>
+    <str key="632342655" type="ucdt">第一武器：[#SNIPER_RIFLE#]：Parallax VX3</str>
+    <str key="632344794" type="ucdn">Opportunist</str>
+    <str key="632366794" type="ucdt">武器的装弹时间减少0.36秒。</str>
+    <str key="632558861" type="ucdt">Manticore SX40：[#COPPER_MEDAL#]</str>
+    <str key="632654277" type="ucdt">墨西哥帽</str>
+    <str key="632702138" type="ucdt">当自己驾驶的载具中有空位时，玩家可以查看一下交通需求。在小地图上，查看头上有方向盘的图标就可以找到申请的玩家。</str>
+    <str key="632762677" type="ucdt">[#COCKPIT#]：白色[#DECAL#]</str>
+    <str key="632816127" type="ucdt">为你的驾驶舱增添个性化装饰，在挡风玻璃处加上绿色[#DECAL#]，仅供[#VS#]使用。</str>
+    <str key="633099040" type="ucdt">[#NC#]：[#INFILTRATOR#]：1号生命支持战斗服</str>
+    <str key="633176675" type="ucdt">回复</str>
+    <str key="633252034" type="ucdt">X</str>
+    <str key="633281087" type="ucdt">机首武器：M18 Needler</str>
+    <str key="633305422" type="ucdt">杀敌10人</str>
+    <str key="633550876" type="ucdt">充能炮</str>
+    <str key="633656825" type="ucdt">弹药浮标</str>
+    <str key="633708926" type="ucdt">Tomcat A2AM导弹仓：[#__AURAXIUM_MEDAL#]</str>
+    <str key="633716156" type="ucdt">用于在军团武器库中制作战争资产。</str>
+    <str key="633830539" type="ucdt">我们的任务是拿下控制中心</str>
+    <str key="634030430" type="ucdt">离开军团</str>
+    <str key="634117515" type="ucdt">你好，执法官。我们来讨论下一个任务。</str>
+    <str key="634126570" type="ucdt">利用纳能持续进行修理，每5秒恢复5.5%的生命。受到伤害后12秒内无法进行自动修复。</str>
+    <str key="634202373" type="ucdt">SOAS-20 AE：[#SILVER_MEDAL#]</str>
+    <str key="634378475" type="ucdt">Lambda工程兵装甲</str>
+    <str key="634401561" type="ucdt">神枪手们对Deca的评价很高，因为它能够支持让其他大多数目镜都望尘莫及的长距离射击。</str>
+    <str key="634489166" type="ucdt">&lt;font color="#00FFAA"&gt;FL-34：&lt;/font&gt;所以你现在只有两个选择。最没技术含量的做法是，沿河驾驶载具到一个较浅的十字路口。或者你也可以直接跳到损坏的桥对面。</str>
+    <str key="634637324" type="ucdt">在[#FLASH#]上安装犀牛轮轴罩</str>
+    <str key="634684863" type="ucdt">这种6倍热成像装置可突出显示敌方步兵和载具单位，即使在烟雾或黑暗中也能区分目标。</str>
+    <str key="634757318" type="ucdt">在你的载具上添加一次性Amerish树林迷彩图案，仅限New Conglomerate阵营使用。此迷彩仅能在配置中使用一次且只能用于这个角色。</str>
+    <str key="634828950" type="ucdt">[#GOLD#]雪橇战锤[#HOOD_ORNAMENT#]</str>
+    <str key="635110754" type="ucdt">[#TR#]：[#MAX#]反载具[#DECAL#]</str>
+    <str key="635120835" type="ucdt">双斧[#ARMOR_CAMO#]</str>
+    <str key="635199362" type="ucdt">“%1”按键已经设置为“%0”。您确认要更改为“%2”？</str>
+    <str key="635208826" type="ucdt">武器能够携带的最大弹药数量增加30发。</str>
+    <str key="635339827" type="ucdt">Pulsar VS1：[#__AURAXIUM_MEDAL#]</str>
+    <str key="635562745" type="ucdt">开普勒头盔</str>
+    <str key="635865559" type="ucdt">维京女郎装甲[#DECAL#]</str>
+    <str key="635967222" type="ucdt">NS-7G PDW</str>
+    <str key="636078201" type="ucdt">Sigma医师[#HELMET#]</str>
+    <str key="636082531" type="ucdt">将[#GALAXY#]的闲置时间延长为24分钟。</str>
+    <str key="636180803" type="ucdt">获得“游击队员”头衔。</str>
+    <str key="636187857" type="ucdt">集合，士兵</str>
+    <str key="636260172" type="ucdt">获得现役绶带</str>
+    <str key="636273948" type="ucdt">为你的Colossus添加个性化[#PLATING#]。所有阵营都可以使用此装备。</str>
+    <str key="636356051" type="ucdt">在短时间内提升Prowler的主炮装填速度。</str>
+    <str key="636456092" type="ucdt">电子技术</str>
+    <str key="636669298" type="ucdt"> 侦测载具周围80米内处敌人的移动，将他们显示在附近所有盟军的小地图上。载具必须加装侦测雷达才能够使用此功能。</str>
+    <str key="636752930" type="ucdt">第二武器：CST-20毫米HCG</str>
+    <str key="636836818" type="ucdt">第一武器：火蜥蜴</str>
+    <str key="636842516" type="ucdt">Octal（8倍）</str>
+    <str key="636906468" type="ucdt">[#MAX#][#ILLUMINATED#][#APEX_HELMET#]</str>
+    <str key="636919262" type="ucdt">按[%s]加入小队</str>
+    <str key="637034169" type="ucdt">消音MKV-G：[#__SILVER_MEDAL#]</str>
+    <str key="637048279" type="ucdt">第一武器：霰弹枪：TS4 Haymaker</str>
+    <str key="637049307" type="ucdt">Liberator VS标志[#GLASS_DECAL#]</str>
+    <str key="637066695" type="ucdt">Zurvan废品管理所</str>
+    <str key="637151658" type="ucdt">用这种狂热者的语音包个性化你的角色。仅供[#TR#]男性使用。</str>
+    <str key="637365008" type="ucdt">铂金MKV装备有整合消音器，使用者在开火时不会在小地图上暴露位置。它配有强力动能弹药，在远距离上的止动能力比配备了消音器的轻机枪更强。所有阵营都可以使用NS武器。</str>
+    <str key="637496967" type="ucdt">11/14 VS Bundle</str>
+    <str key="637677385" type="ucdt">强大的栓动型SR-7可以在极远的距离上杀伤敌人。仅限Terran Republic阵营使用。</str>
+    <str key="637811710" type="ucdt">目前无法更换火力小队领袖。</str>
+    <str key="637918019" type="ucdt">使[#INFILTRATOR#]可以使用电磁脉冲手雷。电磁脉冲手雷产生的冲击可以穿透墙壁，摧毁绝大多数敌方可部署物。被冲击波直接击中的士兵的个人护盾和HUD也会失效数秒。</str>
+    <str key="638049518" type="ucdt">将[#LIBERATOR#]的获取时间间隔减少270秒。</str>
+    <str key="638295493" type="ucdt">150忠诚点</str>
+    <str key="638295684" type="ucdt">将[#MOSQUITO#]的获取时间间隔减少540秒。</str>
+    <str key="638370856" type="ucdt">使用额外的合成涂装美化角色的外观。仅供[#NC#]使用。</str>
+    <str key="638431722" type="ucdt">用[#GOLD#]的剃刀翼装饰你的飞行载具。所有阵营都可以使用此装备。</str>
+    <str key="638495703" type="ucdt">弹药袋 4</str>
+    <str key="638524879" type="ucdt">地面载具：驾驶载具杀敌500人</str>
+    <str key="638525398" type="ucdt">为你的地面载具提供个性化装饰，在前盖上印上"3"[#HOOD_ORNAMENT#]</str>
+    <str key="638551934" type="ucdt">熔化爆炸半径范围内敌军载具的装甲。</str>
+    <str key="638964250" type="ucdt">军团战士</str>
+    <str key="638996080" type="ucdt">球形天线 - 青色闪光</str>
+    <str key="639156983" type="ucdt">武器能够携带的最大弹药数量增加5发。</str>
+    <str key="639272472" type="ucdt">在那些全身心热爱刀具的疯子向世界展示了自己是如此热爱这门技艺，甚至到了有些渗人的地步后，他们会发现自己神秘地获得了这把Auraxium Slasher匕首。</str>
+    <str key="639326801" type="ucdt">改良冷却系统5</str>
+    <str key="639433240" type="ucdt">UBR-300剑鱼：铜质勋章</str>
+    <str key="639481644" type="ucdt">测试区域 5</str>
+    <str key="639612968" type="ucdt">1季度</str>
+    <str key="639698826" type="ucdt">7号武器插槽</str>
+    <str key="639724879" type="ucdt">[*source*]申请加入[*guild*]。</str>
+    <str key="639769559" type="ucdt">概况</str>
+    <str key="639789233" type="ucdt">[#VS#]：[#CARBINE#][#DECAL#]</str>
+    <str key="639830060" type="ucdt">机首武器：Saron Laser Cannon</str>
+    <str key="639842288" type="ucdt">DV-XAT</str>
+    <str key="639873316" type="ucdt">插件能量核心</str>
+    <str key="640082843" type="ucdt">黑暗收割者头盔</str>
+    <str key="640196014" type="ucdt">武器的装弹时间减少8.75%</str>
+    <str key="640206179" type="ucdt">重新部署</str>
+    <str key="640222779" type="ucdt">弹药携带量 4</str>
+    <str key="640309977" type="ucdt">T4 AMP</str>
+    <str key="640392435" type="ucdt">为你的载具添加[#DECAL#]。[#TR_USE_ONLY#]。</str>
+    <str key="640424328" type="ucdt">NS35破片火炮（左手）[#__SILVER_MEDAL#]</str>
+    <str key="640484286" type="ucdt">礼包内包含的物品独此一家，其中包括6个月的英雄经验值加成、一个纳能系统[#DECAL#]，以及一整套迷彩！赶快在礼包下架前买一波吧！</str>
+    <str key="640553636" type="ucdt">[#FRAG_GRENADE#]：[#__AURAXIUM_MEDAL#]</str>
+    <str key="640597537" type="ucdt">转向速度 2</str>
+    <str key="640621826" type="ucdt">NC05 Jackhammer：[#GOLD_MEDAL#]</str>
+    <str key="640801851" type="ucdt">NS-15M绶带</str>
+    <str key="640900404" type="ucdt">帝王之鹰装甲[#DECAL#]</str>
+    <str key="640939416" type="ucdt">第一武器：反步兵：Quasar VM1（左手）</str>
+    <str key="641456863" type="ucdt">用这个大礼包来庆祝《Planetside 2》的一周年吧。注意：礼包内包含全部3个阵营的对应武器！英雄加成只能在进行购买的角色身上生效。</str>
+    <str key="641552505" type="ucdt">工程兵火力套装</str>
+    <str key="641623023" type="ucdt">消焰器</str>
+    <str key="641979118" type="ucdt">[#VS#][#Engineer#]职业装甲描述</str>
+    <str key="641990969" type="ucdt">第一武器：防空：NS-10 Burster（右手）</str>
+    <str key="642198911" type="ucdt">为你的装甲、武器和载具解锁[#SANDY_SCRUB#]迷彩图案。所有阵营都可以使用此图案。</str>
+    <str key="642336358" type="ucdt">武器能够携带的最大弹药数量增加3发。</str>
+    <str key="642452217" type="ucdt">沼泽力量载具[#DECAL#]</str>
+    <str key="642481439" type="ucdt">Orion VS54：[#COPPER_MEDAL#]</str>
+    <str key="642520001" type="ucdt">在你的装甲上添加重金属迷彩图案，仅供[#NC#]使用。</str>
+    <str key="642575943" type="ucdt">弹药袋 3</str>
+    <str key="642626203" type="ucdt">第一武器：轻机枪：TMG-50</str>
+    <str key="642668695" type="ucdt">[#TR#]：[#CARBINE#][#DECAL#]</str>
+    <str key="642742372" type="ucdt">巨鹰装甲[#DECAL#]</str>
+    <str key="642930277" type="ucdt">为你的装甲添加涂装。所有阵营都可以使用此涂装。</str>
+    <str key="643014252" type="ucdt">武器的装弹时间减少11.25%</str>
+    <str key="643028037" type="ucdt">动能弹药</str>
+    <str key="643031530" type="ucdt">击杀敌方玩家。</str>
+    <str key="643066703" type="ucdt">您获得了奖励</str>
+    <str key="643115612" type="ucdt">武器能够携带的最大弹药数量增加24发。</str>
+    <str key="643132877" type="ucdt">寄生前夜迷彩</str>
+    <str key="643198179" type="ucdt">威信</str>
+    <str key="643258551" type="ucdt">占领控制中心，击杀附近的敌人，赢得这枚绶带。</str>
+    <str key="643312474" type="ucdn">Catapang Helmet Placeholder?</str>
+    <str key="643330011" type="ucdt">空中格斗机身 1</str>
+    <str key="643404106" type="ucdt">Vanu Sovereignty占领了Allatum！</str>
+    <str key="643419458" type="ucdt">M20 Drake：[#__AURAXIUM_MEDAL#]</str>
+    <str key="643423236" type="ucdt">第一武器：[#ANTI_INFANTRY#]：M1 Heavy Cycler（右手）</str>
+    <str key="643533179" type="ucdt">增加近战的杀伤力</str>
+    <str key="643767356" type="ucdt">在Lightning的车架下面安装紫色的底盘灯光。仅限Vanu Sovereignty阵营使用。</str>
+    <str key="643801846" type="ucdt">随着能量容纳站安全的恢复以及Dolan在它们背后发挥的影响作用，士兵们将回到Sanctuary进行汇报，然后再返回战场。</str>
+    <str key="643811435" type="ucdt">显示目标敌军的情报</str>
+    <str key="643813371" type="ucdt">试图录制视频时发生错误。</str>
+    <str key="643948940" type="ucdt">无论你是想要低调还是与众不同，这套Hossin主题的迷彩都会让你的形象更加迷人。</str>
+    <str key="643950738" type="ucdt">锁定地图互动</str>
+    <str key="643980456" type="ucdt">在你的武器上添加蜂巢迷彩图案。仅供[#VS#]使用。</str>
+    <str key="644000561" type="ucdt">视频上传系统目前无法使用。（503）</str>
+    <str key="644099460" type="ucdt">大师霰弹枪旗帜</str>
+    <str key="644265202" type="ucdt">受到高爆弹、重机枪和ESF前方机枪的伤害降低9%。</str>
+    <str key="644293987" type="ucdt">NS-7B PDW：[#COPPER_MEDAL#]</str>
+    <str key="644299373" type="ucdt">ACE工具 - 炮塔：[#COPPER_MEDAL#]</str>
+    <str key="644314188" type="ucdt">炮手分享击杀 - 黄蜂原型机</str>
+    <str key="644507575" type="ucdt">自己人，别开枪！</str>
+    <str key="644545582" type="ucdt">如果你继续攻击队友，你的武器将被锁定。这是最后一次警告。</str>
+    <str key="644899012" type="ucdt">护盾持续激活的时间延长至10.5秒。</str>
+    <str key="644964697" type="ucdt">只有驾驶员为[#INFILTRATOR#]时才能使用。开启后[#FLASH#]进入隐形状态，车辆和骑手都无法被敌人看到，也无法被雷达追踪。在此期间骑手无法射击。功能持续时间为25秒。</str>
+    <str key="645132679" type="ucdt">六周年快乐！</str>
+    <str key="645198169" type="ucdt">武器能够携带的最大弹药数量增加100发。</str>
+    <str key="645450474" type="ucdt">反坦克地雷可造成的伤害减少37%。</str>
+    <str key="645593101" type="ucdt">不要使用/yell命令来交流小队中的战略或战术。所有的阵营都可以看到你用/yell打出来的话！</str>
+    <str key="645602973" type="ucdt">指挥官 4 涂装</str>
+    <str key="645704122" type="ucdt">前往Koltyr</str>
+    <str key="645860076" type="ucdt">Skyguard：[#__GOLD_MEDAL#]</str>
+    <str key="645873655" type="ucdt">基地摧毁：水晶枪</str>
+    <str key="646129563" type="ucdt">纳能废品回收站</str>
+    <str key="646134007" type="ucdt">在你的载具上添加猫爪迷彩图案。所有阵营都可以使用此图案。</str>
+    <str key="646208040" type="ucdt">开始传送</str>
+    <str key="646307774" type="ucdt">NS-44B Commissioner：[#__SILVER_MEDAL#]</str>
+    <str key="646587374" type="ucdt">[#SPAWN_BEACON#]</str>
+    <str key="646712612" type="ucdt">夺取能量容纳站</str>
+    <str key="646781053" type="ucdt">步兵[#BARRIER#]</str>
+    <str key="646880890" type="ucdt">双倍经验值周末！</str>
+    <str key="646897962" type="ucdt">在近距离战斗或低光环境下，许多士兵都选择了纳能科技最流行的闪光战斗目镜系列，而不是普通的铁质瞄准镜。</str>
+    <str key="646910400" type="ucdt">D11 Detonator：铜质勋章</str>
+    <str key="646982664" type="ucdt">C4炸药的携带量增加1枚。</str>
+    <str key="647147882" type="ucdt">Hornet导弹由激光制导，将会飞向飞行员准星所瞄准的目标。仅限Vanu Sovereignty阵营使用。</str>
+    <str key="647236640" type="ucdt">Eagle Outpost</str>
+    <str key="647315942" type="ucdt">加快肉搏的恢复速度</str>
+    <str key="647596245" type="ucdt">Bastion舰队航母支持</str>
+    <str key="647654042" type="ucdt">Lumine Edge：[#__GOLD_MEDAL#]</str>
+    <str key="647713315" type="ucdt">ANT收集工具</str>
+    <str key="647739805" type="ucdt">测试区域小型[#OUTPOST#]</str>
+    <str key="647752965" type="ucdt">个人经验值和资源获取增加50%，小队经验值增加5%，持续30分钟。此加成只能在本角色身上使用。</str>
+    <str key="647811388" type="ucdt">猫爪[#WEAPON_CAMO#]</str>
+    <str key="648013725" type="ucdt">武器的装弹时间减少4%。</str>
+    <str key="648042806" type="ucdt">Zenith VX-5：[#SILVER_MEDAL#]</str>
+    <str key="648203202" type="ucdt">军团：身处在全由本军团成员组成的小队中时击杀100名敌军</str>
+</root>
